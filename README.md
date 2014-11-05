@@ -104,3 +104,4 @@ $ git pull upstream gh-pages
 
 Need a hand with something? Send us an email to [contact@keen.io](mailto:contact@keen.io) and we'll get back to you right away!
 For technical questions, use the [`keen-io`](https://stackoverflow.com/questions/tagged/keen-io) tag on Stack Overflow.
+Hello world!
